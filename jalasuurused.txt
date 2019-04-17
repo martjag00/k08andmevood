@@ -1,0 +1,12 @@
+Martin, 47.5
+Meelis, 49.0
+Ivan, 38.5
+Igor, 41.0
+Andres, 43.5
+Sergei, 45.0
+Jaanus, 46.5
+Reinar, 41.0
+Urki, 44.0
+Karl, 38.0
+Karel, 37.0
+Taniel, 39.5
